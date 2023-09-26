@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@app/*": ["./*"],
+      "@pages/*": ["./pages/*"],
+      "@components/*": ["./components/*"],
+      "@hooks/*": ["./hooks/*"],
+      "@styles/*": ["./styles/*"]
+    }
+  }
+}
